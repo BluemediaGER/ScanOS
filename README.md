@@ -1,10 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/BluemediaGER/ScanOS/main/docs/img/logo.png" alt="ScanOS" width="200">
-  <br>
-  ScanOS
-  <br>
+  <img src="https://raw.githubusercontent.com/BluemediaGER/ScanOS/main/docs/img/logo.png" alt="ScanOS" width="300">
 </h1>
 
 <h4 align="center">A modern operating system for enterprise-grade network image scanners.</h4>
